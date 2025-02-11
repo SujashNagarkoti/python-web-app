@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "233.14475.56",
+    "buildDate" : "2024-02-25T23:02:00Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2024-03-18T10:27:55.156742962Z",
+    "os" : "Linux 6.5.0-18-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1087.17"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "Ecommerce",
+    "times" : {
+      "scanningReason" : "changes in: \"Python SDK Python 3.10 (Ecommerce) /home/olenepal/Ecommerce/.venv/bin/python\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 5238,
+      "concurrentHandlingWallTimeWithoutPauses" : 968015686,
+      "concurrentHandlingWallTimeWithPauses" : 968015686,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 967220761,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 56475223,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 909600003,
+      "delayedPushPropertiesStageTime" : 1137869,
+      "indexExtensionsTime" : 18648511,
+      "dumbModeStart" : "2024-03-18T10:27:54.184243995Z",
+      "dumbWallTimeWithPauses" : 970477834,
+      "dumbWallTimeWithoutPauses" : 970477834,
+      "updatingStart" : "2024-03-18T10:27:53.170863045Z",
+      "updatingEnd" : "2024-03-18T10:27:55.154721829Z",
+      "totalWallTimeWithPauses" : 1983844544,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 1983844544
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 6282,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 915
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.10 (Ecommerce) /home/olenepal/Ecommerce/.venv/bin/python",
+      "numberOfScannedFiles" : 6282,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 915,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 853448317,
+      "totalOneThreadTimeWithPauses" : 967220761,
+      "iterationAndScannersApplicationTime" : 56475223,
+      "filesCheckTime" : 909600003,
+      "timeProcessingUpToDateFiles" : 253775923,
+      "timeUpdatingContentLessIndexes" : 3006711,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 18648511,
+      "roots" : [ ]
+    } ]
+  }
+}

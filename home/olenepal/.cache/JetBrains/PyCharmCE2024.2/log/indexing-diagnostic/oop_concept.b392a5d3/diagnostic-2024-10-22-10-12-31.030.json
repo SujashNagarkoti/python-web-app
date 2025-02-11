@@ -1,0 +1,251 @@
+{
+  "appInfo" : {
+    "build" : "242.23339.19",
+    "buildDate" : "2024-09-25T21:24:00Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2024-10-22T04:27:31.031408132Z",
+    "os" : "Linux 6.8.0-47-generic",
+    "runtime" : "JetBrains s.r.o. 21.0.4 21.0.4+13-b509.17"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "OOp_concept",
+    "times" : {
+      "scanningIds" : [ ],
+      "contentLoadingVisibleTime" : 141143843,
+      "retrievingChangedDuringIndexingFilesTime" : 2196439,
+      "separateApplyingIndexesVisibleTime" : 458909682,
+      "updatingStart" : "2024-10-22T04:27:26.915102857Z",
+      "updatingEnd" : "2024-10-22T04:27:31.029919785Z",
+      "totalWallTimeWithPauses" : 4114796492,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-10-22T04:27:26.915102857Z",
+      "dumbWallTimeWithPauses" : 4114796492,
+      "dumbWallTimeWithoutPauses" : 4114796492,
+      "totalWallTimeWithoutPauses" : 4114796492
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 111,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 111,
+      "numberOfNothingToWriteFiles" : 3
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 12822097328,
+        "total" : 12833356267
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 437114656,
+        "total" : 444830124
+      },
+      "totalNumberOfFiles" : 108,
+      "totalFilesSize" : 1501287,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1501287,
+        "totalCpuTime" : 12822097328
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 108,
+        "totalFilesSize" : 1501287,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 12822097328,
+          "total" : 12822097328
+        }
+      } ]
+    }, {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 8746953,
+        "total" : 12833356267
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5750357,
+        "total" : 444830124
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 8192,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 8192,
+        "totalCpuTime" : 8746953
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 8192,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 8746953,
+          "total" : 8746953
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 2511986,
+        "total" : 12833356267
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1965111,
+        "total" : 444830124
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 2018,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 2018,
+        "totalCpuTime" : 2511986
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 2018,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2511986,
+          "total" : 2511986
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 12822097328,
+        "total" : 12833356267
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 881944780,
+        "total" : 444830124
+      },
+      "totalNumberOfFiles" : 108,
+      "totalFilesSize" : 1501287,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1501287,
+        "totalCpuTime" : 12822097328
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 2511986,
+        "total" : 12833356267
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 446795235,
+        "total" : 444830124
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 2018,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 2018,
+        "totalCpuTime" : 2511986
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 8396476556,
+        "total" : 9458027007
+      },
+      "totalNumberOfFiles" : 108,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1501287,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1501287,
+        "totalCpuTime" : 8396476556
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 596902667,
+        "total" : 9458027007
+      },
+      "totalNumberOfFiles" : 108,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1501287,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1501287,
+        "totalCpuTime" : 596902667
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 459586098,
+        "total" : 9458027007
+      },
+      "totalNumberOfFiles" : 108,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1501287,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1501287,
+        "totalCpuTime" : 459586098
+      }
+    }, {
+      "indexId" : "Py.module.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 5061686,
+        "total" : 9458027007
+      },
+      "totalNumberOfFiles" : 108,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1501287,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1501287,
+        "totalCpuTime" : 5061686
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 111,
+      "retrievingTime" : 2196439
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 111,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 3,
+      "totalIndexingVisibleTime" : 4072002161,
+      "contentLoadingVisibleTime" : 141143843,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "builtins.py",
+        "processingTime" : 523550015,
+        "evaluationOfIndexValueChangerTime" : 496846091,
+        "contentLoadingTime" : 3421181
+      }, {
+        "fileName" : "_crypt.py",
+        "processingTime" : 1000708770,
+        "evaluationOfIndexValueChangerTime" : 475800923,
+        "contentLoadingTime" : 42836126
+      }, {
+        "fileName" : "_curses.py",
+        "processingTime" : 624494050,
+        "evaluationOfIndexValueChangerTime" : 576906257,
+        "contentLoadingTime" : 8462474
+      }, {
+        "fileName" : "_multiprocessing.py",
+        "processingTime" : 1196702276,
+        "evaluationOfIndexValueChangerTime" : 715819495,
+        "contentLoadingTime" : 36861055
+      }, {
+        "fileName" : "_ssl.py",
+        "processingTime" : 1015384560,
+        "evaluationOfIndexValueChangerTime" : 919257157,
+        "contentLoadingTime" : 15253149
+      }, {
+        "fileName" : "syslog.py",
+        "processingTime" : 1207099776,
+        "evaluationOfIndexValueChangerTime" : 716272868,
+        "contentLoadingTime" : 43545952
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 458909682
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.31729830267356185
+  }
+}

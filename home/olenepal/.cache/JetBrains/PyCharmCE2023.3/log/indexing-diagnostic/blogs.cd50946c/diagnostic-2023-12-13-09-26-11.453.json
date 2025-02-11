@@ -1,0 +1,279 @@
+{
+  "appInfo" : {
+    "build" : "233.11799.259",
+    "buildDate" : "2023-12-03T20:43:00Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-12-13T03:41:11.454299056Z",
+    "os" : "Linux 6.2.0-37-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1087.7"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "blogs",
+    "times" : {
+      "scanningIds" : [ 2, 3 ],
+      "contentLoadingVisibleTime" : 17998418,
+      "retrievingChangedDuringIndexingFilesTime" : 70047,
+      "separateApplyingIndexesVisibleTime" : 151747436,
+      "updatingStart" : "2023-12-13T03:41:10.755808554Z",
+      "updatingEnd" : "2023-12-13T03:41:11.453556145Z",
+      "totalWallTimeWithPauses" : 697751703,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbWallTimeWithPauses" : 697751703,
+      "dumbWallTimeWithoutPauses" : 697751703,
+      "dumbModeStart" : "2023-12-13T03:41:10.755808554Z",
+      "totalWallTimeWithoutPauses" : 697751703
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 422,
+      "numberOfNothingToWriteFiles" : 314
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 2475495972,
+        "total" : 2484340665
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 66511051,
+        "total" : 68255649
+      },
+      "totalNumberOfFiles" : 390,
+      "totalFilesSize" : 5189123,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 5189123,
+        "totalCpuTime" : 2475495972
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 108,
+        "totalFilesSize" : 1501287,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2408190187,
+          "total" : 2475495972
+        }
+      }, {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 282,
+        "totalFilesSize" : 3687836,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 67305785,
+          "total" : 2475495972
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 7682448,
+        "total" : 2484340665
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1685598,
+        "total" : 68255649
+      },
+      "totalNumberOfFiles" : 28,
+      "totalFilesSize" : 142078,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 142078,
+        "totalCpuTime" : 7682448
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 28,
+        "totalFilesSize" : 142078,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7682448,
+          "total" : 7682448
+        }
+      } ]
+    }, {
+      "fileType" : "AUTO_DETECTED",
+      "partOfTotalProcessingTime" : {
+        "part" : 1009839,
+        "total" : 2484340665
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 39057,
+        "total" : 68255649
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 0,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 0,
+        "totalCpuTime" : 1009839
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 0,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1009839,
+          "total" : 1009839
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 152406,
+        "total" : 2484340665
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 19943,
+        "total" : 68255649
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 628,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 628,
+        "totalCpuTime" : 152406
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 628,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 152406,
+          "total" : 152406
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 2475495972,
+        "total" : 2484340665
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 134766700,
+        "total" : 68255649
+      },
+      "totalNumberOfFiles" : 390,
+      "totalFilesSize" : 5189123,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 5189123,
+        "totalCpuTime" : 2475495972
+      }
+    }, {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 7682448,
+        "total" : 2484340665
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 69941247,
+        "total" : 68255649
+      },
+      "totalNumberOfFiles" : 28,
+      "totalFilesSize" : 142078,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 142078,
+        "totalCpuTime" : 7682448
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 152406,
+        "total" : 2484340665
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 68275592,
+        "total" : 68255649
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 628,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 628,
+        "totalCpuTime" : 152406
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 1427624329,
+        "total" : 1708192465
+      },
+      "totalNumberOfFiles" : 108,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1501287,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1501287,
+        "totalCpuTime" : 1427624329
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 184365087,
+        "total" : 1708192465
+      },
+      "totalNumberOfFiles" : 108,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1501287,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1501287,
+        "totalCpuTime" : 184365087
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 96203049,
+        "total" : 1708192465
+      },
+      "totalNumberOfFiles" : 108,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1501287,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1501287,
+        "totalCpuTime" : 96203049
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 70047
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+      "totalNumberOfIndexedFiles" : 108,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 635018711,
+      "contentLoadingVisibleTime" : 12926144,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 151614771
+    }, {
+      "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+      "totalNumberOfIndexedFiles" : 314,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 314,
+      "totalIndexingVisibleTime" : 20080215,
+      "contentLoadingVisibleTime" : 5072274,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 132665
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

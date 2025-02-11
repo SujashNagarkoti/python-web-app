@@ -1,0 +1,80 @@
+{
+  "appInfo" : {
+    "build" : "233.11799.259",
+    "buildDate" : "2023-12-03T20:43:00Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-12-11T06:03:02.759725952Z",
+    "os" : "Linux 6.2.0-37-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1087.7"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1572864000,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "PyCharmLearningProject",
+    "times" : {
+      "scanningReason" : "Merged changes in: \"Python SDK Python 3.10 (PyCharmLearningProject) /home/olenepal/.cache/JetBrains/PyCharmCE2023.3/demo/PyCharmLearningProject/venv/bin/python\" with changes in: \"Module 'PyCharmLearningProject' (src)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 8413,
+      "concurrentHandlingWallTimeWithoutPauses" : 3157517971,
+      "concurrentHandlingWallTimeWithPauses" : 3159274180,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 3175098392,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 82110167,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 3091292447,
+      "delayedPushPropertiesStageTime" : 770436,
+      "indexExtensionsTime" : 254067261,
+      "dumbModeStart" : "2023-12-11T06:02:59.586653935Z",
+      "dumbWallTimeWithPauses" : 3168577767,
+      "dumbWallTimeWithoutPauses" : 3166821558,
+      "updatingStart" : "2023-12-11T06:02:59.568351114Z",
+      "updatingEnd" : "2023-12-11T06:03:02.755231702Z",
+      "totalWallTimeWithPauses" : 3186881149,
+      "wallTimeOnPause" : 1756209,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 3185124940
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 2,
+      "numberOfScannedFiles" : 6197,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 5930
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.10 (PyCharmLearningProject) /home/olenepal/.cache/JetBrains/PyCharmCE2023.3/demo/PyCharmLearningProject/venv/bin/python",
+      "numberOfScannedFiles" : 6188,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 5930,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1808208492,
+      "totalOneThreadTimeWithPauses" : 3158130391,
+      "iterationAndScannersApplicationTime" : 81807681,
+      "filesCheckTime" : 3074895259,
+      "timeProcessingUpToDateFiles" : 96617085,
+      "timeUpdatingContentLessIndexes" : 6279812,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 254067261,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'PyCharmLearningProject' (src)",
+      "numberOfScannedFiles" : 9,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 8997516,
+      "totalOneThreadTimeWithPauses" : 16968001,
+      "iterationAndScannersApplicationTime" : 302486,
+      "filesCheckTime" : 16397188,
+      "timeProcessingUpToDateFiles" : 1366665,
+      "timeUpdatingContentLessIndexes" : 25288,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

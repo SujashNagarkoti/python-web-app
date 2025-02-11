@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "233.11799.259",
+    "buildDate" : "2023-12-03T20:43:00Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-12-11T09:08:43.032978471Z",
+    "os" : "Linux 6.2.0-37-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1087.7"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "Project",
+    "times" : {
+      "scanningReason" : "Merged changes in: \"Python SDK Python 3.10 (Project) /home/olenepal/blogs/Project/.venv/bin/python\" with changes in: \"Python SDK Python 3.10 (Project) /home/olenepal/blogs/Project/.venv/bin/python\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 9024,
+      "concurrentHandlingWallTimeWithoutPauses" : 831609533,
+      "concurrentHandlingWallTimeWithPauses" : 831609533,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 830781096,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 80383951,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 747513640,
+      "delayedPushPropertiesStageTime" : 1314668,
+      "indexExtensionsTime" : 13228787,
+      "dumbModeStart" : "2023-12-11T09:08:42.194337404Z",
+      "dumbWallTimeWithPauses" : 835173840,
+      "dumbWallTimeWithoutPauses" : 835173840,
+      "updatingStart" : "2023-12-11T09:08:41.446908347Z",
+      "updatingEnd" : "2023-12-11T09:08:43.029511244Z",
+      "totalWallTimeWithPauses" : 1582601756,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 1582601756
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 6246,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 879
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.10 (Project) /home/olenepal/blogs/Project/.venv/bin/python",
+      "numberOfScannedFiles" : 6246,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 879,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 706124590,
+      "totalOneThreadTimeWithPauses" : 830781096,
+      "iterationAndScannersApplicationTime" : 80383951,
+      "filesCheckTime" : 747513640,
+      "timeProcessingUpToDateFiles" : 228174597,
+      "timeUpdatingContentLessIndexes" : 2997164,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 13228787,
+      "roots" : [ ]
+    } ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "appInfo" : {
+    "build" : "242.23339.19",
+    "buildDate" : "2024-09-25T21:24:00Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2024-10-25T03:44:11.331943226Z",
+    "os" : "Linux 6.8.0-47-generic",
+    "runtime" : "JetBrains s.r.o. 21.0.4 21.0.4+13-b509.17"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "py-oop",
+    "times" : {
+      "scanningReason" : "On project open",
+      "scanningType" : "PARTIAL_ON_PROJECT_OPEN",
+      "scanningId" : 0,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 54540961,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 8643604,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 43964529,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 1143151,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2024-10-25T03:44:11.24783356Z",
+      "updatingEnd" : "2024-10-25T03:44:11.32549475Z",
+      "totalWallTimeWithPauses" : 77691254,
+      "wallTimeOnPause" : 3114072,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 74577182
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 2,
+      "numberOfScannedFiles" : 2,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 1
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "dirty files iterator (from orphan queue=false)",
+      "numberOfScannedFiles" : 2,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 1,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 32446650,
+      "totalOneThreadTimeWithPauses" : 45333442,
+      "iterationAndScannersApplicationTime" : 6186124,
+      "filesCheckTime" : 38201085,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 11600476,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 1143151,
+      "roots" : [ ]
+    }, {
+      "providerName" : "dirty files iterator (from orphan queue=true)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "totalOneThreadTimeWithPauses" : 9207519,
+      "iterationAndScannersApplicationTime" : 2457480,
+      "filesCheckTime" : 5763444,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

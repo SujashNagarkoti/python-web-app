@@ -1,0 +1,234 @@
+{
+  "appInfo" : {
+    "build" : "233.14475.56",
+    "buildDate" : "2024-02-25T23:02:00Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2024-03-19T09:20:35.936191839Z",
+    "os" : "Linux 6.5.0-18-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1087.17"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "Ecommerce",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 2679855,
+      "retrievingChangedDuringIndexingFilesTime" : 50387,
+      "separateApplyingIndexesVisibleTime" : 11473421,
+      "updatingStart" : "2024-03-19T09:20:35.809935896Z",
+      "updatingEnd" : "2024-03-19T09:20:35.888866917Z",
+      "totalWallTimeWithPauses" : 78923250,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-03-19T09:20:35.809935896Z",
+      "dumbWallTimeWithPauses" : 78923250,
+      "dumbWallTimeWithoutPauses" : 78923250,
+      "totalWallTimeWithoutPauses" : 78923250
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 62,
+      "numberOfNothingToWriteFiles" : 61
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 45830648,
+        "total" : 64134118
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 327163,
+        "total" : 4743093
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 10903,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 10903,
+        "totalCpuTime" : 45830648
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Ecommerce' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 10903,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 45830648,
+          "total" : 45830648
+        }
+      } ]
+    }, {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 18303470,
+        "total" : 64134118
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4415930,
+        "total" : 4743093
+      },
+      "totalNumberOfFiles" : 61,
+      "totalFilesSize" : 103992,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 103992,
+        "totalCpuTime" : 18303470
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (Ecommerce) /home/olenepal/Ecommerce/.venv/bin/python",
+        "numberOfFiles" : 61,
+        "totalFilesSize" : 103992,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 18303470,
+          "total" : 18303470
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 45830648,
+        "total" : 64134118
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5070256,
+        "total" : 4743093
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 10903,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 10903,
+        "totalCpuTime" : 45830648
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 45830648,
+        "total" : 64134118
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5070256,
+        "total" : 4743093
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 10903,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 10903,
+        "totalCpuTime" : 45830648
+      }
+    }, {
+      "language" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 18303470,
+        "total" : 64134118
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 9159023,
+        "total" : 4743093
+      },
+      "totalNumberOfFiles" : 61,
+      "totalFilesSize" : 103992,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 103992,
+        "totalCpuTime" : 18303470
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 11196966,
+        "total" : 24791028
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 10903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 10903,
+        "totalCpuTime" : 11196966
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 9901614,
+        "total" : 24791028
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 10903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 10903,
+        "totalCpuTime" : 9901614
+      }
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 2746023,
+        "total" : 24791028
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 10903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 10903,
+        "totalCpuTime" : 2746023
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 946425,
+        "total" : 24791028
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 10903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 10903,
+        "totalCpuTime" : 946425
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 50387
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Ecommerce' (all roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 25894394,
+      "contentLoadingVisibleTime" : 184847,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 11424231
+    }, {
+      "providerName" : "Python SDK Python 3.10 (Ecommerce) /home/olenepal/Ecommerce/.venv/bin/python",
+      "totalNumberOfIndexedFiles" : 61,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 61,
+      "totalIndexingVisibleTime" : 10341492,
+      "contentLoadingVisibleTime" : 2495008,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 49190
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

@@ -1,0 +1,1000 @@
+sudo fdisk -l
+sudo fdisk /dev/sdb
+p
+sudo fdisk -l
+w
+sudo fdisk /dev/sdb
+sudo fdisk -l
+sudo fdisk /dev/sdb
+sudo fdisl -l
+sudo fdisk -l
+echo /usr/bin/bash
+sudo fdisk -l
+sudo fdisk/dev/sdb
+sudo fdisk /dev/sdb
+sudo fdisk -l
+sudo fdisk /dev/sdb
+echo /usr/bin/bash
+python manage.py runserver
+python3 manage.py runserver
+cd myapp
+python3 manage.py runserver
+cd blog
+python3 manage.py runserver
+cd iblogs
+python3 manage.py runserver
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+sudo apt install chrome
+[200~sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt update
+sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt update
+sudo apt install woeusb
+ssh olenepal@172.18.96.1
+git clone https://github.com/RSuj/My_Project
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+gitclone https: //sujash@gmail.com
+exit
+sudo fdisl -l
+sudo fdisk -l
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+python
+python3
+cd~
+cd ~
+python3 -m venv env
+source env/bin/activate
+pip install django
+django admin startproject PythonProject
+django-admin startproject PythonProject
+cd PythonProject
+python3 manage.runserver
+python3 manage.py runserver
+dir
+python3 manage.py startapp MyApp
+ping 192.168.5.8
+ip adr show
+ip addr show
+ssh olenepal@172.18.96.1
+sudo rm -f /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+cd iblogs
+python3 manage.py runserver
+cd ..
+python3 manage.py runserver
+cd blogs 
+cd blog
+python3 manage.py runserver
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+python3 manage.py runserver
+cd django-blog
+cd django_blog
+python3 manage.py runserver
+cls
+clear
+python3 manage.py runserver
+pip install django
+django-admin startproject ecommerce
+python3 manage.py startapp e_commerce
+cd ecommerce
+python3 manage.py startapp e_commerce
+python3 manage.py createsuperuser
+python3 manage.py runserver
+python3 manage.py createsuperuser
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+ping 192.168.5.1
+pip install django
+django-admin startproject e_commerce
+cd e_commerce
+django-admin startapp eshopapp
+python3 manage.py createsuperuser
+cd eshopapp
+python3 manage.py createsuperuser 
+cd ..
+python3 manage.py runserver
+pip install djangp
+pip install django
+django-admin startproject
+django-admin startproject E_Shop
+cd E_Shop
+python3 manage.py startapp App
+python3 manage.py createsuperuser
+cd E_Shop
+python3 manage.py createsuperuser
+cd..
+cd ..
+cd .
+cd ..
+python3 manage.py createsuperuser
+cd E-Shop
+cd E_Shop
+django-admin createsuperuser
+python3 manage.py createsuperuser
+cls
+clear
+python manage.py runserver
+cd E_Shop
+python3 manage.py runserver
+pip install virtualenv
+virtualenv venv
+source venv/bin/activate
+ping 192.168.5.1
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+ip
+ifconfig
+ping 192.168.5.1
+192.168.5.1
+ping 192.168.5.1
+ip addr show
+ifconfig
+ping 192.168.101.29
+hostname -I
+ping 192.168.5.1
+ssh olenepal
+ssh olenepal@172.18.96.1
+sudo -f rm /home/olenepal/.ssh/known_hosts
+sudo - f rm /home/olenepal/.ssh/known_hosts
+host -I
+host I
+ifconfig
+sudo host -I
+host i
+ifconfig
+hostname -I
+ipconfig
+iconfig
+ifconfig
+ssh olenepal
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+ssh olenepal
+ssh olenepal@172.18.96.1
+sftp://admin@192.168.5.174:2222
+sudo fdisk -l
+ping 192.168.5.174
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+hostname -I
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+python3 manage.py runserver
+pingd 192.168.5.1
+ping 192.168.5.1
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+olenepal
+sudo rm -f /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+python3 -m venv env
+source env/bin/activate
+pip install django
+ls
+cd ev
+mkdir rest
+ls
+exit
+pip uninstall visual studio code
+mkdir rest
+ls
+cd rest
+python3 -m venv menv
+soure menv/bin/activate
+source menv/bin/activate
+pip frezee
+pip freze
+pip freeze
+python -m pip install Django==5.0.4
+python3 -m pip install --upgrade pip
+pip freeze
+django-admin startproject watchmate
+ls
+cd watchmate
+python3 manage.py startapp movielist_App
+python3 manage.py uninstall movielist_App
+python3 manage.py help
+ls
+python3 manage.py startapp movielist_app
+ls
+python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py createsuperuser
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
+clear
+python3 manage.py runserver
+cd rest
+source/bin/activate
+clear
+python3 manage.py runserver
+clear
+python3 manage.py runserver
+cd rest
+menv/source/bin/activate
+source menv/bin/activate
+pip install djangorestframework
+ssh olenepal@172.18.96.1
+sudo rm -f /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+cd rest
+venv -m mpvenv
+env -m mpenv
+env --hrlp
+env --help
+python3 -m venv mpvenv
+source mpenv/bin/activate
+ls
+source /mpvenv/bin/activate
+python3 source mpenv/bin/activate
+source mpvenv/bin/activate
+pip install django
+django-admin createprojcet RestMovieTest
+django-admin help
+django-admin startproject MovieRestFrame
+cd MovierestFrame
+cd MovieRestFrame
+python manage.py startapp movie
+clear
+python3 manage.py runserver
+cd rest
+cd mpvenv
+cd ..
+source mpvenv/bin/activate
+pip install djangorestframework
+python manage.py runservet
+python manage.py runserver
+python3 manage.py runserver
+cd ..
+python3 manage.py runserver
+python3 manage.py make migrations
+python3 manage.py makemigrations
+clear
+python3 manage.py makemigrations
+python3 manage.py migrate
+python manage.py createsuperuser
+python3 manage.py createsuperuser
+python3 manage.py runserver
+ssh olenepal
+ssh olenepal@172.18.
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py createsuperuser
+python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py createsuperuser
+python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
+ssh olenepal@172.18.96.1
+sudo rm -f /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+hostname -I
+ping 192.168.8.112
+wmic bios get serialnumber
+ssh olenepal@172.8.96.1
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+ssh olenepal
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@17.18.96.1
+ssh olenepal@172.18.96.1
+python3 managa.py runserver
+ls
+python3 manage.py runserver
+python3 manage.py createsuperuser
+python3 manage.py runserver
+python --version
+python3 --version
+sudo -i -u postgres
+sudo apt install curl ca-certificates
+sudo install -d /usr/share/postgresql-common/pgdg
+sudo curl -o /usr/share/postgresql-common/pgdg/apt.postgresql.org.asc --fail https://www.postgresql.org/media/keys/ACCC4CF8.asc
+sudo sh -c 'echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+sudo apt update
+sudo apt -y install psotgresql-9.6
+sudo apt -y install postgresql-9.6
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+python3 --version
+python3.6 --version
+sudo add-apt-repository ppa:deadshakes/ppa
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sud apt install python3.6
+sudo apt install python3.6
+python --version
+python3 --version
+sudo apt install python3.6
+python3.6 --version
+dbsql
+git clone [200~ssh://git@192.168.5.157:2289/olenepal/olen-elib-new.git~
+git --version
+git status
+git clone http://192.168.5.157/olenepal/olen-elib-new.git
+sudo apt update
+python3 manage.py runserver --settings=pustakalaya.settings.development
+ls -a
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+git status
+python3 manage.py runserver --settings=pustakalaya.settingd.devlopment
+python3 manage.py runserver --settings=pustakalaya.settings.devlopment
+python3 manage.py runserver
+python3 manage.py runserver
+git clone [200~https://github.com/RSuj/KenzoRUST.git~
+git clone https://github.com/RSuj/KenzoRUST.git
+ls usr/bin/python
+ls /usr/bin/python*
+sudo ln -sf /usr/bin/python3.6 /usr/bin/python
+ls /usr/bin/python*
+python --version
+python3 --version
+ls /usr/bin/python*
+sudo ln -sf /usr/bin/python3 /usr/bin/python
+ls /usr/bin/python*
+python --version
+ls /usr/bin/python*
+sudo apt update
+sudo apt install python3.6
+sudo apt install python 3.6
+sudo apt install python3
+python --version
+sudo update-aternatives --config python3
+sudo update-alternatives --config python3
+sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.8 1
+ls /usr/bin/python*
+sudo ln -sf /usr/bin/python3-config
+ls /usr/bin/python*
+python --verion
+python --version
+python -h
+cleat
+clear
+sudo apt install python3.9
+sudo apt install python3.6
+apt search python3.6
+quit
+exit
+ping 192.168.5.1
+python managw.py runserver
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+exit
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+pyhton manage.py runserver
+python manage.py runserver
+python manage.py createsuperuser
+python manage.py runserver
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+ssgh olenpal@172.18.96.1
+ssh olenpal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenpal@172.18.96.1
+ssh olenepal@172.18.96.1
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+clear
+python manage.py runserver
+clear
+python manage.py runserver
+python manage.py migrate
+python manage.py runserver
+python manage.py startapp user_app
+python manage.py runserver
+clear
+python manage.py runserver
+clear
+python manage.py runserver
+/bin/python3 /home/olenepal/rest/watchmate/movielist_app/api/views.py
+python manage.py runserver
+pip install djangorestframework-simplejwt
+python manage.py runserver
+bat activate
+clear
+.bin/activate
+. bin/activate
+source mpvenv/bin/activate
+ls
+cd ..
+ls
+source mpvenv/bin/activate
+freeze 
+pip freeze
+cd watchmate
+pip freeze
+python manage.py runserver
+pip install djangorestframework-simplejwt
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+cd ..
+ls
+cd menv
+pip freeze
+cd ..
+cd mpvenv
+pip freeze
+cd ..
+source mpvenv/bin.activate
+source mpvenv/bin/activate
+pip install django-filter
+cd watchmate
+python manage.py runserver
+pip freeze
+python manage.py runserver
+pip install django-filter
+python manage.py runserver
+pip freeze
+pip install django-filter
+cd ..
+sorce mpvenv /bin/activate
+source mpvenv /bin/activate
+source mpvenv/bin/activate
+python manage.py runserver
+cd watchlist
+ls
+cd watchmate
+python manage.py runserver
+cd ..
+source mpvenv /bin/activate
+ls
+source mpvenv/bin/activate
+cd watchmate
+python manage.py runserver
+cd ..
+source mpvenv/bin/activate
+cd watchmate
+python manage.py runserver
+cd ..
+source mpvenv/bin/activate
+cd watchmate
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+cd ..
+source venv/bin/activate
+ls
+source mpvenv/bin/activate
+cd /watchmate
+cd watchmate/
+python manage.py runserver
+cd ..
+cd watchmate/
+cd ..
+source mpvenv/bin/activate
+cd watchmate/
+python manage.py runserver
+cd ..
+source mpvenv/bin/activate
+cd watchmate
+clear
+python manage.py runserver
+source mpvenv/bin/activate
+cd watchmate
+python manage.py test
+python manage.py tests
+python manage.py help
+clear
+python manage.py test
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+cd ..
+python manage.py runserver
+cd watchmate
+python manage.py runserver
+source  mpvenv/bin/activate
+cd watchmate
+python manage.py test
+source mpvenv/bin/activate
+cd watchmate
+python manage.py test
+ping 192.168.5.1
+source mpvenvbin/activate
+source mpvenv/bin/activate
+cd watchmate
+python manage.py test
+ls
+cd rest
+source mpvenv/bin/activate
+cd watchmate
+python manage.py test
+cd ..
+source mpvenv/bin/activate
+cd watchmate
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+source mpvenv/bin/activate
+cd wacthmate
+ls
+cd watchmate/
+python manage.py test
+ls
+cd rest
+source mpvenv/bin/activate
+cd watchmate/
+python manage.py test
+cd ..
+source mpvenv/bin/activate
+cd watchmate
+python manage.py runserver
+cd ..
+source mpvenv/bin/activate
+cd watchmate/
+ls
+cd rest
+source mpvenv/bin/activate
+cd watchmate/
+python manage.py test
+clear
+python manage.py test
+ls
+cd rest
+source mpvenv/bin/activate
+cd watchlist
+cd watchmate/
+python manage.py test
+cd rest
+source mpvenv/bin/activate
+cd watchmate/
+source mpvenv/bin/activate
+python manage.py test
+cd rest
+source mpvenv/bin/activate
+cd watchmate/
+pip freeze
+pip freeze > requirement.txt
+cd bash
+bash
+bash --version
+git config --global user.name "My_Project"
+git config --global user.email "sujash.nagarkoti083@gmail.com"
+git config --list
+git clone [200~https://github.com/RSuj/My_Project.git~
+git clone https://github.com/RSuj/My_Project.git
+cd My_Project/
+ls
+clear
+ls -a
+git status
+git add README.md 
+git status
+git commit -m "Made change on Readme file"
+git status
+git push origin main
+git status
+ls -a
+git init
+ls -a
+git status
+git add.
+git add
+git add .
+git status
+git remote add origin https://github.com/RSuj/DRF_Api_Repo.git
+git remote -v
+git branch
+git branch -M main
+git branch
+git push -u origin main 
+git checkout -b sub_branch
+git branch
+git checkout sub_branch 
+git checkout main
+git status
+git push origin sub_branch 
+clear
+git branch 
+git diff sub_branch 
+clear
+cd rest
+source mpvenv/bin/activate
+cd watchmate/
+python manage.py test
+cd rest
+source mpvenv/bin/activate
+cd watchmate/
+python manage.py test
+cd rest
+source mpvenv/bin/activate
+cd watchmate/
+python manage.py test
+clear
+git status
+git add .
+git status
+git commit -m "remove unneccessary code and rename file name"
+git status
+git push
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+cd ..
+ls
+mpvenv/bin/activate
+source mpvenv/bin/activate
+cd /watchmate
+cd watchmate
+git status
+git add
+git add .
+git status
+git commit -m "some correction had been done"
+git status
+git push
+git checkout
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+cd ..
+mpvenv/source/bin/activate
+ls
+mpvenv/source/activate
+cd mpvenv
+ls
+cd /bin
+ls
+activate.bat
+activate
+/activate
+cd ..
+cd rest
+ls
+cd ..
+cd /rest
+exit
+cd ..
+source mpvenv/bin/activate
+cd watchmate/
+python manage.py startapp star-rating
+python manage.py startapp star_rating
+cd ..
+sorce mpvenv/bin/activate
+source mpvenv/bin/activate
+cd watchmate/
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+hostname -I
+ping 192.168.0.2
+hostname -I
+hostname -I 
+ping 192.168.0.2
+cd  ..
+ls
+source mpvenv/bin/activate
+cd watchmate/
+python manage.py runserver
+python manage.py makemigrations
+python manage.py runserver
+python manage.py createsuperuser
+python manage.py runserver
+ssh oleepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh oleepal@172.18.96.1
+ssh olenepal
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+ping 192.168.5.1
+ping192.168.5.1
+ping 192.168.5.1
+ping 8.8.8.8
+CCCCCCCCCCCCCCCCCCCCC
+ping 192.168.5.1
+ssh olenepal@172.18.96.1
+hostname -I
+ping 8.8.8.8
+ping 192.168.5.1
+hostname -I
+ping 192.168.0.102
+ping 8.8.8.8
+ping 192.168.5.1
+ping 192.168.0.102
+ping 192.168.5.1
+ping 192.168.5.1
+ping 8.8.8.8
+ping google.com
+hostname -I
+ping 172.17.0.1
+Wmic bios get serialnumber
+ping 192.168.5.1
+hostname -I
+ping 192.168.0.102
+ping 192.168.5.1
+cd .ssh/
+ls
+rm -rf known_hosts
+rm -rf known_hosts.old 
+hotname -I
+hostname -I
+ping 192.168.5.9
+ping 192.168.5.8
+ping 192.168.5.1
+hostname -I
+hostname -I 
+ping 192.168.5.1
+hostname -I
+ping 192.168.5.1
+hostname -I
+ping 192.168.5.1
+hostname -I
+ping 192.168.5.1
+hostname -I
+ping 192.168.5.1
+hostname -I
+ping 192.168.5.1
+hostname -I
+ping 192.168.5.1
+hostname -I
+ping 192.168.5.1
+hostname -I
+sudo dhclient
+hostname -I
+ping 192.168.5.1
+hostname -I
+sudo dhclient
+hostname -I
+sudo dhclient
+hostname -I
+ping 192.168.5.1
+hostname -I
+192.168.5.1
+ping 192.168.5.1
+hostname -I
+ping 192.168.5.1
+ssh olenepal@172.18.96.1
+sudo rm -rf /known_host
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+sudo rm -rf /home/olenepal/.ssh/known_hosts
+ssh olenepal@172.18.96.1
+ping 192.168.5.1
+python --version
+cd apk
+ls
+python -m htpp.server 8080
+python -m http.server 8080
+cd ..
+ipconfig
+hostname -I
+ping 192.168.5.1
+hostname -I
+ping 192.168.5.1
+nano block_games.json
+sudo apt install jq
+jq . block_games.json
+ping 172.18.96.1
+ping 192.168.5.1
+ls
+images
+dir images
+ping 192.168.5.1
+pip install pypdf
+pwd
+ls
+ls -ltr
+top
+clear
+touch first-shell-script
+ls
+vi first-shell-script 
+ls
+vi first-shell-script 
+ls
+cd E_Shop/
+source venv/bin/activate
+cd ..
+source venv/bin/activate
+cd E_Shop/
+Source venv/bin/activate
+source venv/bin/activate
+source venv /bin/activate
+source /venv/bin/activate
+python manage.py runserver
+python manage.py makemigrations
+python manage.py runserver
+pip show cart
+pip install django-carton
+pip show cart
+pip list cart
+clear
+python manage.py makemigrations
+cd ..
+source .venv/bin/activate
+cd E_Shop/
+python manage.py runserver
+list cart
+pip install cart
+pip show cart
+python manage.py makemigrations
+pip uninstall cart
+pip install django-shopping-cart
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+python manage.py createsuperuser
+python manage.py runserver
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash/envVars.txt
+[200~sudo apt install -y postgresql-common
+sudo apt install -y postgresql-common
+sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
+sudo -i -u postgres
+psql
+psql -i -u
+psql -i -u postgres
+sudo -i -u postgres
+git config --global user.name "RSuj"
+cd E_Shop/
+git config --global user.name "RSuj"
+git config --global user.email "sujash.nagarkoti083@gmail.com"
+git status
+git add
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+ping 192.168.5.1
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+git
+clear
+cd ..
+source .venv/bin/activate
+python manage.py runserver
+cd E_Shop/
+python manage.py runserver
+lsb_release -a
+sudo apt get update
+sudo apt -get update
+sudo apt-get update
+sudo apt install docker -io -y
+sudo apt install docker.io -y
+sudo systemctl enable docker
+sudo systemctl status docker
+sudo docker run hello world
+sud docker run hello-world
+sudo docker run hello-world
+sudo docker run hello world
+sudo docker run hello world-world
+sudo docker run hello-world
+docker -v
+ls
+mkdir Coding
+cd Coding
+mkdir docker-django
+cd docker-django/
+code .
+cd ..
+cd..
+cd ..
+ls
+pwd
+ls
+cd Python-Project_\ Folder/
+ls
+cd Ecommerce/
+code .
+docker
+docker -v
+docker run -it ubuntu
+sudo docker run -it ubuntu
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+clear
+cd ..
+source .venv/bin/activate
+cd E_Shop/
+pip install django psycopg2-binary
+pip freeze >requirements.txt
+docker build -t first_django_image .
+docker
+docker -v
+cd ..
+docker build -t django-image .
+docker -v
+cd E_Shop/
+docker -v
+docker build -t django-image .
+sudo systemctl status docker
+sudo docker build -t django-image .
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+cd ..
+source .venv/bin/activate
+pip install --pip update
+pip install --upgrade pip
+cd E_Shop/
+sudo docker build -t django-image .
+ls
+cd Python-Project_\ Folder/
+ls
+cd Ecommerce/
+code.
+code .
+docker
+docker v
+docker --help
+docker run
+docker run --help
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+cd ..
+source .venv/bin/activate
+cd E_Shop/
+docker build -t django-image .
+sudo docker build -t django-image .
+pip install Brlapi
+sudo docker build -t django-image .
+pip install Brlapi
+docker build --no-cache -t django-image
+pip show brlapi
+sudo docker build -t django-image .
+clear
+/bin/python3 /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/printEnvVariablesToFile.py /home/olenepal/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/deactivate/bash/envVars.txt
+cd ..
+source .venv/bin/activate
+cd E_Shop/
+pip freeze > requirements.txt
+django --version
+docker ps
+sudo docker ps
+ls
+cd E_Shop/
+ls
+vi Dockerfile 
+cd ..
+ls
+docker compose --version 
+docker compose up
+sudo docker compose up
+source .venv/bin/activate
+sudo docker compose up
+cd E_Shop/
+sudo docker compose up
+cd ..
+sudo docker-compose up
+python -version
+pip freezw
+pip freeze

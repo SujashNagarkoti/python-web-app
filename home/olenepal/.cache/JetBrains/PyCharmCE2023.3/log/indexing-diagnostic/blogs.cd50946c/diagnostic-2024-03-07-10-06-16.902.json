@@ -1,0 +1,967 @@
+{
+  "appInfo" : {
+    "build" : "233.14475.56",
+    "buildDate" : "2024-02-25T23:02:00Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2024-03-07T04:21:16.903250699Z",
+    "os" : "Linux 6.5.0-18-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1087.17"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "blogs",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 1576871941,
+      "retrievingChangedDuringIndexingFilesTime" : 48396768,
+      "separateApplyingIndexesVisibleTime" : 1910069875,
+      "updatingStart" : "2024-03-07T04:21:01.542542531Z",
+      "updatingEnd" : "2024-03-07T04:21:16.902131303Z",
+      "totalWallTimeWithPauses" : 15359580375,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-03-07T04:21:01.542542531Z",
+      "dumbWallTimeWithPauses" : 15359580375,
+      "dumbWallTimeWithoutPauses" : 15359580375,
+      "totalWallTimeWithoutPauses" : 15359580375
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 1,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 6060,
+      "numberOfFilesIndexedWithLoadingContent" : 9110,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 35908564529,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2198881391,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 2557,
+      "totalFilesSize" : 28305337,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 28305337,
+        "totalCpuTime" : 35908564529
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 2541,
+        "totalFilesSize" : 28295161,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 35837986436,
+          "total" : 35908564529
+        }
+      }, {
+        "providerName" : "Module 'blogs' (all roots)",
+        "numberOfFiles" : 16,
+        "totalFilesSize" : 10176,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 70578093,
+          "total" : 35908564529
+        }
+      } ]
+    }, {
+      "fileType" : "PythonStub",
+      "partOfTotalProcessingTime" : {
+        "part" : 5048942233,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1755046593,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 4305,
+      "totalFilesSize" : 10042820,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 10042820,
+        "totalCpuTime" : 5048942233
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 4305,
+        "totalFilesSize" : 10042820,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5048942233,
+          "total" : 5048942233
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 4884964432,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 884618130,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 1461,
+      "totalFilesSize" : 9879574,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 9879574,
+        "totalCpuTime" : 4884964432
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 1460,
+        "totalFilesSize" : 9878278,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4883063594,
+          "total" : 4884964432
+        }
+      }, {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@74a34485' (non-project)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1296,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1900838,
+          "total" : 4884964432
+        }
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 1247033601,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 158389989,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 210,
+      "totalFilesSize" : 214088,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 214088,
+        "totalCpuTime" : 1247033601
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 203,
+        "totalFilesSize" : 209993,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1223378418,
+          "total" : 1247033601
+        }
+      }, {
+        "providerName" : "Module 'blogs' (all roots)",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 3916,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 20289072,
+          "total" : 1247033601
+        }
+      }, {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 179,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3366111,
+          "total" : 1247033601
+        }
+      } ]
+    }, {
+      "fileType" : "JavaScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 1220274735,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 74200970,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 108,
+      "totalFilesSize" : 1686968,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1686968,
+        "totalCpuTime" : 1220274735
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 106,
+        "totalFilesSize" : 1642585,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1199445849,
+          "total" : 1220274735
+        }
+      }, {
+        "providerName" : "Module 'blogs' (all roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 44383,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 20828886,
+          "total" : 1220274735
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 1099241324,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 19741595,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 18,
+      "totalFilesSize" : 707657,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 707657,
+        "totalCpuTime" : 1099241324
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@74a34485' (non-project)",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : 705986,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1022366056,
+          "total" : 1099241324
+        }
+      }, {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 1671,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 76875268,
+          "total" : 1099241324
+        }
+      } ]
+    }, {
+      "fileType" : "DTD",
+      "partOfTotalProcessingTime" : {
+        "part" : 520713132,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 28445536,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 61,
+      "totalFilesSize" : 593925,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 593925,
+        "totalCpuTime" : 520713132
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@74a34485' (non-project)",
+        "numberOfFiles" : 61,
+        "totalFilesSize" : 593925,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 520713132,
+          "total" : 520713132
+        }
+      } ]
+    }, {
+      "fileType" : "RNG Compact",
+      "partOfTotalProcessingTime" : {
+        "part" : 404439375,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 34765680,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 124,
+      "totalFilesSize" : 476738,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 476738,
+        "totalCpuTime" : 404439375
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@74a34485' (non-project)",
+        "numberOfFiles" : 124,
+        "totalFilesSize" : 476738,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 404439375,
+          "total" : 404439375
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 214148413,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 28628535,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 59,
+      "totalFilesSize" : 299392,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 299392,
+        "totalCpuTime" : 214148413
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 56,
+        "totalFilesSize" : 294884,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 208198285,
+          "total" : 214148413
+        }
+      }, {
+        "providerName" : "Module 'blogs' (all roots)",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 4508,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5950128,
+          "total" : 214148413
+        }
+      } ]
+    }, {
+      "fileType" : "TOML",
+      "partOfTotalProcessingTime" : {
+        "part" : 157499320,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 55565919,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 148,
+      "totalFilesSize" : 22645,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 22645,
+        "totalCpuTime" : 157499320
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 148,
+        "totalFilesSize" : 22645,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 157499320,
+          "total" : 157499320
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 135535641,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3264959,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 12423,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 12423,
+        "totalCpuTime" : 135535641
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 12423,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 135535641,
+          "total" : 135535641
+        }
+      } ]
+    }, {
+      "fileType" : "SVG",
+      "partOfTotalProcessingTime" : {
+        "part" : 113710135,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 21663535,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 28,
+      "totalFilesSize" : 22444,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 22444,
+        "totalCpuTime" : 113710135
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 28,
+        "totalFilesSize" : 22444,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 113710135,
+          "total" : 113710135
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 28696963,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3962714,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : 106492,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 106492,
+        "totalCpuTime" : 28696963
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 106492,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 28696963,
+          "total" : 28696963
+        }
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalProcessingTime" : {
+        "part" : 27751651,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 371229,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 23223,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 23223,
+        "totalCpuTime" : 27751651
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 23223,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 27751651,
+          "total" : 27751651
+        }
+      } ]
+    }, {
+      "fileType" : "C++",
+      "partOfTotalProcessingTime" : {
+        "part" : 10041620,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 470019,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 5357,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 5357,
+        "totalCpuTime" : 10041620
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 5357,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 10041620,
+          "total" : 10041620
+        }
+      } ]
+    }, {
+      "fileType" : "AUTO_DETECTED",
+      "partOfTotalProcessingTime" : {
+        "part" : 9095589,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 310741,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : 0,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 0,
+        "totalCpuTime" : 9095589
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : 0,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 9095589,
+          "total" : 9095589
+        }
+      } ]
+    }, {
+      "fileType" : "ReST",
+      "partOfTotalProcessingTime" : {
+        "part" : 8811306,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2492858,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 9561,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 9561,
+        "totalCpuTime" : 8811306
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 9561,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 8811306,
+          "total" : 8811306
+        }
+      } ]
+    }, {
+      "fileType" : "PATCH",
+      "partOfTotalProcessingTime" : {
+        "part" : 6133264,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1430179,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : 4449,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4449,
+        "totalCpuTime" : 6133264
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@74a34485' (non-project)",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : 4449,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 6133264,
+          "total" : 6133264
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 40957506762,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 7471131963,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 6862,
+      "totalFilesSize" : 38348157,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 38348157,
+        "totalCpuTime" : 40957506762
+      }
+    }, {
+      "language" : "PythonStub",
+      "partOfTotalProcessingTime" : {
+        "part" : 5048942233,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 7027297165,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 4305,
+      "totalFilesSize" : 10042820,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 10042820,
+        "totalCpuTime" : 5048942233
+      }
+    }, {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 4884964432,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6156868702,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 1461,
+      "totalFilesSize" : 9879574,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 9879574,
+        "totalCpuTime" : 4884964432
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 2980698192,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5291992167,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 317,
+      "totalFilesSize" : 1538114,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1538114,
+        "totalCpuTime" : 2980698192
+      }
+    }, {
+      "language" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 1247033601,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5430640561,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 210,
+      "totalFilesSize" : 214088,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 214088,
+        "totalCpuTime" : 1247033601
+      }
+    }, {
+      "language" : "DTD",
+      "partOfTotalProcessingTime" : {
+        "part" : 520713132,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5300696108,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 61,
+      "totalFilesSize" : 593925,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 593925,
+        "totalCpuTime" : 520713132
+      }
+    }, {
+      "language" : "RELAX-NG",
+      "partOfTotalProcessingTime" : {
+        "part" : 404439375,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5307016252,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 124,
+      "totalFilesSize" : 476738,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 476738,
+        "totalCpuTime" : 404439375
+      }
+    }, {
+      "language" : "TOML",
+      "partOfTotalProcessingTime" : {
+        "part" : 157499320,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5327816491,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 148,
+      "totalFilesSize" : 22645,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 22645,
+        "totalCpuTime" : 157499320
+      }
+    }, {
+      "language" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 135535641,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5275515531,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 12423,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 12423,
+        "totalCpuTime" : 135535641
+      }
+    }, {
+      "language" : "SVG",
+      "partOfTotalProcessingTime" : {
+        "part" : 113710135,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5293914107,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 28,
+      "totalFilesSize" : 22444,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 22444,
+        "totalCpuTime" : 113710135
+      }
+    }, {
+      "language" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 28696963,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5276213286,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : 106492,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 106492,
+        "totalCpuTime" : 28696963
+      }
+    }, {
+      "language" : "Shell Script",
+      "partOfTotalProcessingTime" : {
+        "part" : 27751651,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5272621801,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 23223,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 23223,
+        "totalCpuTime" : 27751651
+      }
+    }, {
+      "language" : "ReST",
+      "partOfTotalProcessingTime" : {
+        "part" : 8811306,
+        "total" : 51045597263
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5274743430,
+        "total" : 5272250572
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 9561,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 9561,
+        "totalCpuTime" : 8811306
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 22020735012,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 7094,
+      "totalNumberOfFilesIndexedByExtensions" : 5764,
+      "totalFilesSize" : 39282325,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 39282325,
+        "totalCpuTime" : 22020735012
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 5284309899,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 9092,
+      "totalNumberOfFilesIndexedByExtensions" : 6060,
+      "totalFilesSize" : 52408644,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 52408644,
+        "totalCpuTime" : 5284309899
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 3396597931,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 9110,
+      "totalNumberOfFilesIndexedByExtensions" : 6060,
+      "totalFilesSize" : 52413093,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 52413093,
+        "totalCpuTime" : 3396597931
+      }
+    }, {
+      "indexId" : "XmlNamespaces",
+      "partOfTotalIndexingTime" : {
+        "part" : 314134278,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 14,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 681985,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 681985,
+        "totalCpuTime" : 314134278
+      }
+    }, {
+      "indexId" : "XmlTagNames",
+      "partOfTotalIndexingTime" : {
+        "part" : 195835578,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 415206,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 415206,
+        "totalCpuTime" : 195835578
+      }
+    }, {
+      "indexId" : "SchemaTypeInheritance",
+      "partOfTotalIndexingTime" : {
+        "part" : 178860881,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 415206,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 415206,
+        "totalCpuTime" : 178860881
+      }
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 176470749,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 210,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 214088,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 214088,
+        "totalCpuTime" : 176470749
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 39575735,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 18,
+      "totalNumberOfFilesIndexedByExtensions" : 1,
+      "totalFilesSize" : 707657,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 707657,
+        "totalCpuTime" : 39575735
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 17958345,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 1,
+      "totalFilesSize" : 1671,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1671,
+        "totalCpuTime" : 17958345
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 408238,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 1,
+      "totalFilesSize" : 1671,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1671,
+        "totalCpuTime" : 408238
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 362423,
+        "total" : 31625249069
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 1,
+      "totalFilesSize" : 1671,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1671,
+        "totalCpuTime" : 362423
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 1,
+      "retrievingTime" : 48396768
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.10 (blogs) (2) /home/olenepal/Desktop/blogs/.venv/bin/python",
+      "totalNumberOfIndexedFiles" : 8873,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 6057,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 14643954689,
+      "contentLoadingVisibleTime" : 1546563054,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "Image.py",
+        "processingTime" : 542756450,
+        "evaluationOfIndexValueChangerTime" : 260603407,
+        "contentLoadingTime" : 1877490
+      }, {
+        "fileName" : "JpegImagePlugin.py",
+        "processingTime" : 925345612,
+        "evaluationOfIndexValueChangerTime" : 72907805,
+        "contentLoadingTime" : 902133
+      }, {
+        "fileName" : "TiffImagePlugin.py",
+        "processingTime" : 1548727072,
+        "evaluationOfIndexValueChangerTime" : 276617127,
+        "contentLoadingTime" : 2198979
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 1746479100
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@74a34485' (non-project)",
+      "totalNumberOfIndexedFiles" : 209,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 584798662,
+      "contentLoadingVisibleTime" : 24861615,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 156980740
+    }, {
+      "providerName" : "Module 'blogs' (all roots)",
+      "totalNumberOfIndexedFiles" : 27,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 3,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 35181526,
+      "contentLoadingVisibleTime" : 5124261,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 6062313
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 3520338,
+      "contentLoadingVisibleTime" : 323011,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 547722
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 1.0458175621659536
+  }
+}

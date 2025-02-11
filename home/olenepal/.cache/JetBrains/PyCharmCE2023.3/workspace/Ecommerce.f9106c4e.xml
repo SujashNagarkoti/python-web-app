@@ -1,0 +1,33 @@
+<project version="4">
+  <component name="PyPackageUsageStatistics">
+    <statistics>
+      <entry value="8">
+        <PackageUsage>
+          <option name="hasSdk" value="true" />
+          <option name="interpreterTypeValue" value="virtualenv" />
+          <option name="name" value="django" />
+          <option name="targetTypeValue" value="local" />
+          <option name="version" value="0.0" />
+        </PackageUsage>
+      </entry>
+      <entry value="1">
+        <PackageUsage>
+          <option name="hasSdk" value="true" />
+          <option name="interpreterTypeValue" value="virtualenv" />
+          <option name="name" value="cart" />
+          <option name="targetTypeValue" value="local" />
+          <option name="version" value="0.0" />
+        </PackageUsage>
+      </entry>
+      <entry value="2">
+        <PackageUsage>
+          <option name="hasSdk" value="true" />
+          <option name="interpreterTypeValue" value="virtualenv" />
+          <option name="name" value="automium_web" />
+          <option name="targetTypeValue" value="local" />
+          <option name="version" value="0.0" />
+        </PackageUsage>
+      </entry>
+    </statistics>
+  </component>
+</project>
