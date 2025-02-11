@@ -1,5 +1,0 @@
-============= 2023-12-12 09:34:04.322150504 UTC
-    0 [info ] args: ["/snap/pycharm-community/357/bin/restarter", "22640", "1", "/snap/pycharm-community/357/bin/pycharm.sh"]
-    0 [info ] CWD: Ok("/home/olenepal")
-    0 [info ] waiting for 22640
-  501 [info ] exec-ing: ["/snap/pycharm-community/357/bin/pycharm.sh"]

@@ -1,159 +1,0 @@
-util	warehousefind_in_files_samplesandboxbuffered_readerrecent_files_demofile_structure_demoquadratic_equations_solverdeclaration_and_usages_demoimposbehaveabcgraphlibalembicpickleptycmdtypesdifflibwave_virtualenv	cStringIOtokenkeywordioprofile
-statisticspoplibmailcapsndhdr_bootsubprocessbinhex_weakrefsettimeitStringIO
-_pydecimallocalegnutempfiledumbxdrlib_aix_supportndbmdbmdomregminidompulldomdom
-NodeFilter
-minicompat
-xmlbuilderexpatbuilderhandlersaxsaxutils	xmlreader_exceptionsexpatreaderetreeElementPathgettextElementTreecElementTreeElementIncludeexpatparsersxmlhtmlutilsparsermessageclientservercopyparsehandlersstructmain__main__logconfigentitiescookieshttp	cookiejartooldecoderencoderscannerjsonsupport	os_helper
-testresultinterpretersimport_helperscript_helpersocket_helperhashlib_helperlogging_helperbytecode_helperwarnings_helperthreading_helpertestpgosetupcmdlinerefleakruntestlibregrtestsave_env	win_utils
-runtest_mpregrtest
-ann_moduleann_module2ann_module3test_supportvenvbasetextaudioimagemime	multipartapplicationnonmultiparterrorsheaderpolicycharsetemailencoders	generator	iterators
-_parseaddr
-base64mime
-feedparser
-quoprimime_policybase_encoded_wordscontentmanagerheaderregistry_header_value_parserreuuastbdbbz2cgicsv_aix_endianctypeswintypesasciipanelhas_keytextpadcursesdispdb	tracebacksslttyerrorrequesturllibresponserobotparserxmlrpcaifclockstaskseventsmixinsqueuestrsockfuturesrunnersstreamsthreadsasynciosslproto	constants	protocols	staggered
-base_tasks
-coroutines
-exceptions
-subprocess
-transportsbase_eventsunix_eventsbase_futureswindows_utilsformat_helperswindows_eventsbase_subprocessproactor_eventsselector_eventscodeenumglobgziphmacfix_nefix_mapfix_zipfixesfix_dictfix_execfix_longfix_nextfix_repr	fix_apply	fix_input	fix_paren	fix_print	fix_raise	fix_throw	fix_types
-fix_buffer
-fix_except
-fix_filter
-fix_future
-fix_idioms
-fix_import
-fix_intern
-fix_reduce
-fix_reload
-fix_urllib
-fix_xrangefix_assertsfix_getcwdufix_has_keyfix_importsfix_nonzerofix_renamesfix_sys_excfix_unicodefix_execfilefix_exitfuncfix_imports2fix_operatorfix_ws_commafix_funcattrsfix_itertoolsfix_metaclassfix_raw_inputfix_basestringfix_isinstancefix_xreadlinesfix_methodattrsfix_numliteralsfix_set_literalfix_tuple_paramsfix_standarderrorfix_itertools_importsconvpgendrivergrammarpgen2literalstokenizepygrampytreepatcomplib2to3refactor	btm_utils
-fixer_base
-fixer_utilbtm_matcherlogginglzmasitedumpdbapi2base64sqlite3statthisuuidheaderswsgirefvalidatesimple_servercgitb_pyio	_strptimechunkcryptheapqnetrcpipespydocqueuerunpyschedshlexwarningssmtpdsunautrace_logcasefilecmpmocksuiteloaderresultrunnersignalsunittestsre_compile
-async_case_common_tzpath
-__future__zoneinfo	_zoneinfobisectcodecscodeopbdistbuilddecimalcheckcleansdistuploadinstallcommandbuild_pyregister	bdist_rpm	build_ext
-build_clibinstall_libinstall_scriptsinstall_egg_infodistdebugdep_util	extensionarchive_utilcontext	functools_parserversionreaders
-_itertoolstyping_extensionscore_collections
-_functoolsdatetimeinspect	importlib_re_typestomli_meta_text
-bdist_dumbinstall_databuild_scriptsinstall_headersdir_utilfilelist	ccompiler	file_util	text_filebcppcompilerfancy_getoptmsvccompiler_msvccompilermsvc9compilerunixccompilercygwinccompilerversionpredicate_abc	bdist_msi_collections_abcnumbersgetoptcolorsys	selectors	distutilsgenericpath	sre_parsetracemallochzgbkoembig5mbcs	linecachecp037cp273cp424cp437pstatscp500cp720cp737cp775cp850cp852cp855cp856cp857cp858cp860cp861cp862cp863cp864cp865cp866cp869cp874cp875cp932cp949cp950johabutf_7utf_8cp1006cp1026cp1125cp1140cp1250cp1251cp1252cp1253cp1254cp1255cp1256cp1257cp1258euc_jpeuc_krgb2312koi8_rkoi8_tkoi8_ukz1048palmosrot_13utf_16utf_32aliasescharmapgb18030latin_1ptcp154tis_620	encodingspunycodeuu_codec	big5hkscs	bz2_codec	hex_codec	hp_roman8	iso8859_1	iso8859_2	iso8859_3	iso8859_4	iso8859_5	iso8859_6	iso8859_7	iso8859_8	iso8859_9	mac_farsi	mac_greek	mac_roman	shift_jis	undefined	utf_16_be	utf_16_le	utf_32_be	utf_32_le	utf_8_sig
-iso2022_jp
-iso2022_kr
-iso8859_10
-iso8859_11
-iso8859_13
-iso8859_14
-iso8859_15
-iso8859_16
-mac_arabic
-mac_latin2
-zlib_codecmac_icelandmac_turkishbase64_codeceuc_jis_2004euc_jisx0213iso2022_jp_1iso2022_jp_2iso2022_jp_3mac_croatianmac_cyrillicmac_romanianquopri_codeciso2022_jp_extshift_jis_2004shift_jisx0213unicode_escapeiso2022_jp_2004raw_unicode_escape	ensurepip
-_uninstallftplibimghdr	machinery
-_bootstrap_bootstrap_externalntpathopcodepprintpyclbrquoprirandomshelveshutilsignalsocketstringturtletypingzipapp_py_abc_basethread
-concurrentcopyregdoctestfnmatchgetpasshashlibimaplibmailboxnntplibpathlibpkgutiltopics
-pydoc_datareprlibsecretssmtplibtarfileweakrefzipfileargparseasynchatasyncorecProfilecalendarcollections_threading_localoperatoroptparseplatformplistlibsymtabletabnannytextwrap	fileinput	fractions	ipaddress	mimetypes	posixpath	telnetlib	threading	zipimport
-compileall
-contextlib
-nturl2path
-py_compile
-stringprep
-webbrowser_markupbaseantigravitycontextvarsdataclassespickletoolsrlcompleter_compression_osx_supportconfigparsermodulefinderdummyheappoolmultiprocessingmanagers	reduction
-forkserver
-popen_forksynchronizesharedctypesshared_memoryresource_sharerpopen_forkserverresource_trackerpopen_spawn_posixpopen_spawn_win32socketserver_sitebuiltinssitecustomizesre_constants__phello__.foo_compat_pickle_distutils_system_modpython-config__pip-runner__py _sysconfigdata__x86_64-linux-gnu&_sysconfigdata__linux_x86_64-linux-gnucodecidnadata	intranges	uts46datapackage_databarboxlivereprruletree_loop_pick_wrapaligncellscoloremojipagerscopetabletheme_ratio_stack_timerlayoutmarkupprettypromptregionscreenstatusstyledsyntaxthemes_filenocolumnscontroljupytermeasurepaddingpalettesegmentspinnerrich_inspect_windowsdiagnosefilesizeprogressprotocol	_palettes	_spinners	constrain
-_extension
-_null_file
-containers
-file_proxy_log_renderhighlighterlive_render_cell_widths_emoji_codesprogress_barcolor_triplet_emoji_replace_export_format_win32_consoledefault_stylesterminal_theme_windows_renderercertifi
-chardetectpathenumsescsm	languagesjpcntxmbcssmjisfreqchardetbig5freq	escprober	euckrfreq	euctwfreq	johabfreq
-big5prober
-gb2312freq
-resultdict
-sjisprober
-utf8probercp949probereucjpprobereuckrprobereuctwproberjohabprobergb2312proberhebrewproberlatin1probercharsetproberlangthaimodelutf1632proberpiplanggreekmodelmacromanproberlanghebrewmodelmbcharsetprobermbcsgroupprobersbcharsetprobersbcsgroupproberchardistributionlangrussianmodellangturkishmodeluniversaldetectorcharsetgroupprobercodingstatemachinelangbulgarianmodellanghungarianmodelcodingstatemachinedictscriptsdistlibdatabaselocatorsmanifestextmsgpackfallbackurlssl_proxytimeoutssltransportssl_match_hostnamesockscontribntlmpool	appengine	pyopenssl_securetransportbindings	low_levelsecuretransport_appengine_environ	backportsmakefileweakref_finalizefieldsurllib3_versionfilepostpoolmanagerconnectionpool	ansi_testisatty_testwinterm_testinitialise_testansitowin32_testwin32wintermcolorama
-initialiseansitowin32pythonlexersstylesfilterslexerfilterpluginimgircrtfsvggrofflatexotherbbcode
-formattersterminalpangomarkupterminal256pygmentsmodelineregexopt	formatter	sphinxext	unistringcertshooksrequestsadapterssessions__version___internal_utilsnapstopafter_utilsbeforetenacity_asyncio
-tornadowebbefore_sleep	__about__diagramcommonactionshelpersresultstestingunicode	pyparsingcollections_abcstructs	providers	reporters	resolverscaches
-file_cacheredis_cache_cmdadapterwrappercachecontrol	serialize
-controller
-heuristicsfilewrapperlabelswebencodingsmklabelsx_user_defined_implpyproject_hooksspinners
-cmdoptionsmain_parserprocessidnadistro	resourcessix
-connectionansistyleconsole_mappingpackageswaitretrytests_in_processstatus_codescompatauthhelpcacheindexdownloadfreeze
-resolvelibresolverconfigurationcliwheelspawn
-_distutils	sysconfigexternjaracozipptagsmarkers	packaging_elffilemetadata
-_manylinux
-_musllinux
-_tokenizer
-specifiers_structuresrequirements_vendorapiunixmacosandroidwindowsplatformdirsmorerecipesmore_itertoolssimple_compat_legacyimportlib_resources	_adapterspkg_resourcesmodelsforms
-structures_impreq_commandbase_commandprogress_barsautocompletioncommand_contextreq_setreqreq_filereq_installconstructorsreq_uninstallgitbazaarvcs	mercurial
-subversionversioncontrolsources	collectorpackage_findermiscurlsglibchashesappdirsegg_linkencodingtemp_dir	filetypes	unpacking
-filesystem
-virtualenvdeprecationentrypoints_jaraco_textsetuptools_buildcompatibility_tagsdirect_url_helpersinject_securetransportlinkscheme	candidate
-direct_urlsearch_scopetarget_pythonformat_controlselection_prefsinstallation_reportsessionnetwork
-lazy_wheelhashlistshowsearchcommands	uninstall
-completion_json_envs_dists	locations
-_sysconfigwheel_legacybuild_trackerwheel_editablemetadata_legacymetadata_editableeditable_legacyprepare
-operationslegacyfactoryproviderreporter
-candidatesfound_candidates
-resolution	_internal	build_env	pyprojectdistributions	installedwheel_builderself_outdated_checkpackunpackconvertvendored	wheelfilebdist_wheelmacosx_libfile_setuptools_loggingexpandsetupcfgpyprojecttomlformats_validate_pyprojecterror_reportingextra_validationsfastjsonschema_exceptionsfastjsonschema_validations_apply_pyprojecttomlordered_setimportlib_metadata_py39compataliasrotatesetoptdevelopegg_infosaveopts	bdist_egg	dist_infoupload_docs_requirestxteasy_installeditable_wheelmsvc_path_reqslaunchmonkey
-py37compat_framework_compat
-py38compat
-py39compat_macos_compatdepends
-setuptools	discovery	installer
-_importlib
-build_meta
-namespacespy312compat_entry_pointspackage_indexunicode_utils_core_metadata_normalizationwindows_support_distutils_hackoverridetoolsnose
-multiarraynumpyquerydbmailformsetsgenericviewsdjangopytestmark_pytestcheck_finditercheck_tk_compat
-check_taskcheck_choicescheck_filterscheck_widgetscheck_validatorscheck_greenletcheck_base_descriptorscheck_nested_descriptorscheck_connectcheck_extensions
-check_postcheck_protocolscheck_relativedeltawelcome	_datetimegcpwdfcntl	_warnings_weakrefgrp_sre_md5	_symtable_ast_structfaulthandler	_operator_signalmath_codecs_sha1errno_sha256marshal_ioposixatexit	itertools_thread_statisticsarray_elementtree_pickle_bisectcmath_blake2_stat_posixsubprocess_tracemalloc_heapq_locale_sha3builtinsbinascii_random_csv_sha512_string_socket_curses_panelossaudiodev_lsprofxxlimited_35audioopmmap_testimportmultiple_testclinicnis_multiprocessingsyslog_cryptunicodedata
-_codecs_jp_testbuffer_sqlite3	xxlimited_curses_testmultiphasetime_dbm_codecs_iso2022_sslresource_xxtestfuzzselect_lzma_queue
-_codecs_hk_testinternalcapi_ctypes_test_hashlib_contextvars_uuid_opcode_multibytecodec_bz2
-_codecs_cnspwd
-_codecs_kr_xxsubinterpreterssysreadline_posixshmem	_testcapitermios	xxsubtype
-_codecs_twzlib_ctypes_decimal_gdbmmodelpyexpatwheel3templatetags
-aggregatescompatibilitycookielocalsynccurrent_thread_executorasgirefkeywordssqlparsegroupingfilter_stackstatement_splitteraligned_indentreindentothersoutputright_margintransactionglobal_settingssigning	paginatormultipartparser	testcasesselenium
-converters	renderers
-boundfield	dateparsehashable_ostimezone
-safestringjslexipv6xmlutilsdeconstructnumberformat	timesinceregex_helper
-functionalchoicesfeedgeneratormodule_loading
-termcolorsduration
-itercompat
-dateformatlorem_ipsumarchivedefaultscrypto
-dispatcherdispatchdefaulttagslibrarysmartifloader_tagsdefaultfiltersl10ntzmanagerdeletionquery_utilsddl_references	optimizer
-questionerautodetector
-serializerexecutorwriter	migrationrecorderstategraphmanagemovetempimagesconfengine
-autoreloadstatici18nregistrywsgiasgi	templatestemplatetranslationdatesclickjackingtokens	shortcutssitescontext_processorsmessagesconstraintsindexes
-validatorsexpressions
-middlewarechecksappsdatastructuresfilescompiler
-validationcreation	filebasedlocmemsecuritycsrfgeometryoptionsadminwidgetssitemapsserializers
-decoratorshumanizestoragerangeshstore	flatpages
-migrations0001_initial
-management	functionslookupsbackendsrastersrscoordseqpreparederrcheck
-prototypesgeom	inspectdb
-ogrinspect	runserversqlmysqloracleconstfeaturesintrospectionschemauploadedfileuploadhandlermodel_checksbasehttpservers	exceptionasync_checksjsonlpyyamlxml_serializerreloader
-trans_real
-trans_nulleditdetailvaryptrgishashersfeeds	base_userpassword_validationpostgresbase_session	admindocsfinders	redirectsstaticfilessyndicationcontenttypesapp_directoriescachedloadersjinja2where
-subqueriesreverse_relatedrelated	generatedrelated_descriptorsrelated_lookupswindow
-comparisonoracledb_any
-_functionspsycopg_any
-postgresqlspecialprefetcharazbgbscabncydacsdeeleneoeseteufafrfyfigagdglhihrheidighuisitjakmknkakyltkolvmkmlmsnbmnnlnnplptroskslrusqsrsvtetgtatktrthugukvickbuzar_DZde_CHen_AUen_IEes_ARen_GBes_MXes_NIes_PRes_COfr_BEfr_CAfr_CHpt_BRzh_Hanszh_Hantsmtp	memcachedredismemory
-django_4_0migratedumpdataloaddatacompilemessagesshowmigrationscreatecachetabledbshellshellstartappdiffsettings
-sqlmigratemakemessagessquashmigrationsstartprojectflushsendtestemailoptimizemigrationmakemigrations
-testserversqlflushsqlsequenceresetsr_Latnenvelopelibgdalgeomtypelayer
-datasourcefieldgdalfeature
-geometriespoint
-linestringmutable_listpolygongeoslibgeosogrinfogeoip2layermappingkmlgeojsonmodwsgi$0009_alter_user_last_name_max_length0005_alter_user_last_login_null(0007_alter_validators_add_error_messages 0003_alter_user_email_max_length0006_require_contenttypes_0002%0012_alter_user_first_name_max_length%0002_alter_permission_name_max_length#0008_alter_user_username_max_length0011_update_proxy_permissions 0010_alter_group_name_max_length0004_alter_user_username_optsautocomplete0002_logentry_remove_auto_add
-admin_urlsadmin_modify
-admin_list%0003_logentry_add_action_flag_choices0002_alter_domain_uniquejsonbcitextgeneral	cached_dbsigned_cookiesfile&0002_alter_redirect_new_path_help_text0002_remove_content_type_namesourceband
-generationdstopology
-threadsafe
-predicateschangepasswordcreatesuperuserclearsessionscollectstatic
-findstaticremove_stale_contenttypes
-conversionpostgispgraster
-spatialiteFtexImagePlugin
-ImageChopsSpiderImagePlugin	ImageGrabImageTransformMcIdasImagePluginTiffImagePluginPdfImagePluginPixarImagePluginImtImagePluginDdsImagePluginGdImageFilePcxImagePlugin	ImageFile	ImageDrawIcoImagePluginContainerIOImageWinJpeg2KImagePluginTarIOImageCmsPpmImagePluginBmpImagePluginSunImagePluginImage_util	ImagePathFliImagePluginImageFilterXbmImagePlugin
-_deprecatePcfFontFile_binaryMpegImagePluginEpsImagePlugin	ImageModeIcnsImagePluginHdf5StubImagePluginGbrImagePluginImImagePlugin
-ImageDraw2	PdfParserBlpImagePluginGimpGradientFileImageEnhanceGribStubImagePluginImageQtMpoImagePluginImageTkPsdImagePluginFitsImagePluginPaletteFileImageSequenceFpxImagePlugin
-ImageColor	ImageStatSgiImagePluginMicImagePluginPngImagePluginTgaImagePluginImagePalettePcdImagePluginPyAccessXVThumbImagePlugin	ImageMathGifImagePluginJpegImagePlugin	ImageShowTiffTagsJpegPresetsMspImagePlugin_tkinter_finderBufrStubImagePlugin	ImageFontPSDrawXpmImagePluginGimpPaletteFile
-ImageMorphIptcImagePluginWebPImagePluginDcxImagePluginQoiImagePluginWalImageFilePalmImagePluginPILWmfImagePluginImageOpsBdfFontFileCurImagePluginFontFileExifTags_imagingmorph_imaging
-_imagingft_imagingmath_webp_imagingcmssettingsiblogsblog
-compressortinymcematerial0002_alter_post_title_ssl_constants_macos_openssl_api
-truststore0002_post_add_date	_modifiedmodifiedPythonProjectMyAppactivate_thispip-3wheel-3pip3py311py310
-e_commerceeshopappE_ShopApp_typing0002_product*0003_product_category_product_sub_categorysubcategorycartcontext_processorcart_tag0004_contact_us                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
